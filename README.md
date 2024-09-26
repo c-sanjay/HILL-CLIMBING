@@ -44,7 +44,7 @@ Feedback is provided in terms of heuristic function
 <h3>PROGRAM:</h3>
 <hr>
 
-```
+```PY
 #!/usr/bin/env python
 # coding: utf-8
 
